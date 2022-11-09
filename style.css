@@ -1,0 +1,107 @@
+ body{
+
+}
+
+#banner{
+        width:20%;
+}
+
+.principal{
+        background: #D8BFD8;
+        padding:20px;
+}
+
+.titulo-principal{
+         padding-left:20px;
+}
+
+.titulo-centralizado{
+        text-align:center
+}
+
+p {
+    text-align: center;
+}
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #D8BFD8;
+}
+
+.ITENS{
+        FONT-STYLE:italic 
+}
+
+.beneficios{
+        background:#DB7093;
+        padding:10px;
+}
+
+ul{
+        display:inline-block;
+        vertical-align:top;
+        width:20%;
+        margin-right:20%;
+}
+
+.imagembeneficios{
+        width:20%;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label, form legend {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox {
+    margin: 20px 0;
+}
+.enviar {
+    width:40%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+.enviar:hover {
+    background: darkorange;
+    transform: scale(1.2);
+}
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background: #D8BFD8;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #D8BFD8;
+    padding: 8px 15px;
+}
+
